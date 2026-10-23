@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-420 -420 940 840" role="img" aria-label="Tanbala">
+  <title>Tanbala</title>
+  <mask id="tb-cut-m" maskUnits="userSpaceOnUse" x="-600" y="-600" width="1400" height="1200">
+    <rect x="-600" y="-600" width="1400" height="1200" fill="#fff"/>
+    <polygon points="134.1,-40 1034.1,-940 1034.1,860" fill="#000"/>
+    <polygon points="-152,-172 198.2,-172 109.2,-83 45,-83 45,180 -45,270 -45,-83 -241,-83" fill="#000"/>
+  </mask>
+  <g mask="url(#tb-cut-m)"><rect x="-305.5" y="-305.5" width="611" height="611" rx="60" transform="rotate(45)" fill="#1594A3"/></g>
+  <path fill="#1594A3" d="M285.4 -140.4A142 142 0 0 1 285.4 60.4L252.9 27.9A96 96 0 0 0 252.9 -107.9ZM346.2 -201.2A228 228 0 0 1 346.2 121.2L313.7 88.7A182 182 0 0 0 313.7 -168.7ZM407 -262A314 314 0 0 1 407 182L374.5 149.5A268 268 0 0 0 374.5 -229.5Z"/>
+</svg>
